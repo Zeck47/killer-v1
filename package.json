@@ -1,0 +1,24 @@
+{
+    "name": "hypnotic",
+    "version": "1.0.0",
+    "description": "1800 wrld opensrc",
+    "main": "Main.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [],
+    "author": "1997",
+    "license": "ISC",
+    "dependencies": {
+        "axios": "^0.21.1",
+        "center-align": "^1.0.1",
+        "colors": "^1.4.0",
+        "discord-rpc": "^4.0.1",
+        "discordjs-selfv11": "^11.5.1",
+        "enmap": "^5.8.7",
+        "fs": "^0.0.1-security",
+        "https": "^1.0.0",
+        "os": "^0.1.2",
+        "path": "^0.12.7"
+    }
+}
