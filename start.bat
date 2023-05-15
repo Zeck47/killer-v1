@@ -1,4 +1,4 @@
 @echo off
-title ZeckCl
+title Killer V1
 node main.js
 pause nul
